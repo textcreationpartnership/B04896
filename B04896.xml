@@ -1,0 +1,434 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The King &amp; northern-man, shewing how a poor Northumberland-man (tennant to the King) being wronged by a lawyer (his neighbour), went to the King himself to make known his grievance. To the tune of, Slut.</title>
+            <author>M. P. (Martin Parker), d. 1656?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04896</idno>
+            <idno type="STC">Wing P439</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[174]</idno>
+            <idno type="EEBO-CITATION">99884260</idno>
+            <idno type="PROQUEST">ocm99884260</idno>
+            <idno type="VID">183011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183011)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[93])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The King &amp; northern-man, shewing how a poor Northumberland-man (tennant to the King) being wronged by a lawyer (his neighbour), went to the King himself to make known his grievance. To the tune of, Slut.</title>
+                  <author>M. P. (Martin Parker), d. 1656?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by and for Alex Milbourn, at the Stationers-Arms in Green-Arbor-Court, in the Little Old-Baily.,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Martin Parker.</note>
+                  <note>Verse: "To drive away the weary day ..."</note>
+                  <note>Publication date suggested by Wing.</note>
+                  <note>Single sheet divided for mounting.</note>
+                  <note>Imperfect: stained with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="174" facs="tcp:183011:1" rendition="simple:additions"/>
+            <head>The King &amp; Northern-man, Shewing how a poor <hi>Northumberland-Man</hi> (Tennant to the King) being wronged by a Lawyer (his Neighbour) went to the King himſelf to make known his grievance.</head>
+            <opener>To the Tune of, Slut.</opener>
+            <p>
+               <figure>
+                  <figDesc>depiction of a king</figDesc>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>depiction of a Northumberland man</figDesc>
+               </figure>
+            </p>
+            <l>TO drive away the weary day,</l>
+            <l>a book I chanced to take in hand,</l>
+            <l>And therein I read aſſuredly,</l>
+            <l>a ſtory as you ſhall underſtand:</l>
+            <l>Peruſing many a Hiſtory over,</l>
+            <l>amongſt the Leaves I chanc'd to view:</l>
+            <l>The books name and Title is this,</l>
+            <l>
+               <hi>The ſecond Leſſon, too good to be true.</hi>
+            </l>
+            <l>There read I of <hi>a Northumberland-man,</hi>
+            </l>
+            <l>that was born &amp; brought up in the Kings land,</l>
+            <l>He paid twenty ſhillings Rent a year,</l>
+            <l>to the King, as I do underſtand:</l>
+            <l>By him there dwelt a Lawyer falſe,</l>
+            <l>that with his Farm was not content,</l>
+            <l>But over the poor man ſtill hang'd his noſe,</l>
+            <l>becauſe he did gather the Kings Rent.</l>
+            <l>He told him he his Leaſe had forfeit,</l>
+            <l>and that he muſt there no longer abide:</l>
+            <l>The K. by ſuch Lownes hath mickle wrong done</l>
+            <l>and for you the world is broad and wide,</l>
+            <l>The poor man pray'd him for to ceaſe,</l>
+            <l>and content himſelf if he would he willing,</l>
+            <l>And pick no vantage in my Leaſe,</l>
+            <l>and I ſhall give thee forty ſhilling:</l>
+            <l>I'ts neither forty Shilling, nor forty pound,</l>
+            <l>iſe warrant thee, ſo can agree thee and me,</l>
+            <l>Unleſs thou yield me thy farm ſo round,</l>
+            <l>and ſtand unto my courteſie.</l>
+            <l>The Poor man ſaid he might not do ſo,</l>
+            <l>his wife and his Barns will make ill wark,</l>
+            <l>If thou with my Farm wilt let me go,</l>
+            <l>thou ſeem'ſt a gude fellow iſe give thee 5 mark.</l>
+            <l>The Lawyer would not be ſo content,</l>
+            <l>but further i'th matter he means to ſmell:</l>
+            <l>The neighbors bad the poor man provide his tent,</l>
+            <l>and make a ſubmiſsion to the King himſel.</l>
+            <l>He got a humble ſtaff on his back,</l>
+            <l>a jerkin I wot that was of grey:</l>
+            <l>With a good blew Bonnet he thought it no lack</l>
+            <l>to the King he is ganging as faſt as he may:</l>
+            <l>He had not gone a mile out o'th town,</l>
+            <l>but one of his Neighbors he did eſpy:</l>
+            <l>How far is't to'th King, for thither i'm boun,</l>
+            <l>as faſt as ever I can hye.</l>
+            <l>I am ſorry for you neighbour he ſaid,</l>
+            <l>for your ſimplicity I make moan,</l>
+            <l>Ice warrant you, you may ask for the King,</l>
+            <l>when nine or ten days journey you have gone.</l>
+            <l>Had I wiſt the King had wond ſo far,</l>
+            <l>iſe never a ſought him a mile out o'th town,</l>
+            <l>He's either had ſought me, or we'd nere a come near,</l>
+            <l>at home I had rather ha ſpent a Crown,</l>
+            <l>But when he came to the City of <hi>London,</hi>
+            </l>
+            <l>of every man he for the King did call:</l>
+            <l>They told him, that him he need not to fear,</l>
+            <l>for the King he lies now at the <hi>White-Hall.</hi>
+            </l>
+            <l>And with ſpying of Farlies in the City,</l>
+            <l>becauſe he had never been there beforn,</l>
+            <l>He lee ſo long a bed the next day,</l>
+            <l>the Court was remov'd to <hi>Winſor</hi> that morn.</l>
+            <l>You ha lay too long, then ſaid his Hoſt,</l>
+            <l>you ha lay too long by a great while?</l>
+            <l>The King is now to <hi>Winſor</hi> gone,</l>
+            <l>he's further gone by twenty mile.</l>
+            <l>I think I was curſt, then ſaid the poor man,</l>
+            <l>If I had been wiſe I might ha conſider,</l>
+            <l>Belike the King of me has gotten ſome weet,</l>
+            <l>he had ne'r gone away, had not I come hither</l>
+            <l>He fled not for you, then ſaid his Hoſt,</l>
+            <l>but hye you to <hi>Winſor</hi> as faſt as you may:</l>
+            <l>Beſure it will requite your coſt,</l>
+            <l>for look what is paſt the King will pay?</l>
+            <l>But when he came to <hi>Winſor</hi> Caſtle,</l>
+            <l>with his humble ſtaff on his back,</l>
+            <l>Although the Gates wide open ſtood,</l>
+            <l>he laid on them till he made 'um crack,</l>
+            <l>
+               <pb n="175" facs="tcp:183011:1"/>
+Why ſtay, may friend, art mad <abbr>qd</abbr> the Porter,</l>
+            <l>what makes thee keep this ſtir to day?</l>
+            <l>VVhy, I am a Tennant of the Kings,</l>
+            <l>who have a Meſſage to him to ſay:</l>
+            <l>The King hath men enough, ſaid the Porter,</l>
+            <l>your Meſſage well that they can ſay:</l>
+            <l>Why, ther's ne'r a Knave the King doth keep,</l>
+            <l>ſhall ken my ſecret mind to day.</l>
+            <l>I were told e're I came from home,</l>
+            <l>e're I got hither it would be dear bought,</l>
+            <l>Let me in, iſe give thee a ſingle Penny,</l>
+            <l>I ſee thou wilt ha ſmall, e'te thou do it for nought.</l>
+            <l>Gramercy, ſaid the Porter then,</l>
+            <l>thy reward is ſo great I cannot ſay nay:</l>
+            <l>Yonders a Noble Man within the Court,</l>
+            <l>i'ſe firſt hear what he doth ſay.</l>
+            <l>When the Porter came to the Noble man,</l>
+            <l>he ſaid he would ſhew him pretty ſport,</l>
+            <l>There's fine a Clown come to the gate,</l>
+            <l>as came not theſe ſeven years to the Court.</l>
+            <l>He calls all Knaves the King doth keep,</l>
+            <l>he raps at the Gates, and makes great din;</l>
+            <l>he's paſſing liberal of reward,</l>
+            <l>he'd give a good ſingle Penny to be let in.</l>
+            <l>Let him in, then ſaid the Noble man,</l>
+            <l>come in Fellow, the Porter gan ſay;</l>
+            <l>If thou come within thy ſelf, he ſaid,</l>
+            <l>thy ſtaff-behind the Gate muſt ſtay.</l>
+            <l>And this Cuckolds Cur muſt lig behind,</l>
+            <l>what a Deel what a Cur haſt got with thee?</l>
+            <l>The King will take him up for his own ſell,</l>
+            <l>Iſe warrant when as he doth him ſee.</l>
+            <l>Beſhrew thy Limbs, then ſaid the poor man,</l>
+            <l>then maiſt thou count me a fool or worſe,</l>
+            <l>I wot not what Bankrupt lies by the King,</l>
+            <l>for want of Money he may pick my purſe.</l>
+            <l>Let him in with his Staff and Dog ſaid the Lord</l>
+            <l>he gave a nod with's head, &amp; a beck with's knee</l>
+            <l>If you be Sir King, then ſaid the poor man,</l>
+            <l>as I can very well think ye be:</l>
+            <l>For as I was told e're I came from home,</l>
+            <l>your goodlieſt man that e're I ſaw beforn,</l>
+            <l>With ſo many jingles jangles about one neck,</l>
+            <l>as is about yours, I never ſaw none.</l>
+            <l>I am not the King, ſaid the Noble man,</l>
+            <l>fellow, though I have a proud Coat:</l>
+            <l>If you be not the King, help me to the ſpeech of him</l>
+            <l>you ſeem a gude fellow, iſe give you a Groat.</l>
+            <l>Gramercy ſaid the Noble man,</l>
+            <l>thy reward is ſo great, I cannot ſay nay;</l>
+            <l>Iſe go now the Kings pleaſure, if I can,</l>
+            <l>till I come again beſure you ſtay.</l>
+            <l>Here's ſike a ſtaying, then ſaid the poor man,</l>
+            <l>
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+the kings better than any in our country</l>
+            <l>I might a gane to the fartheſt Duke i'th houſe,</l>
+            <l>neither Lad nor Lown to trouble me.</l>
+            <l>VVhen the Noble man came to the King,</l>
+            <l>he ſaid he could them his Grace good ſport,</l>
+            <l>Here's ſuch a Clown come is the gate,</l>
+            <l>as came not this ſeven years to the Court.</l>
+            <l>He calls all knaves your Highneſs keeps,</l>
+            <l>and more than that, he terms them worſe,</l>
+            <l>He'l not come in without his Staff and Dog</l>
+            <l>for fear ſome Bankrupt will pick his purſe.</l>
+            <l>Let him in with his ſtaff; then ſaid our King,</l>
+            <l>that of his ſport <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may ſee ſome:</l>
+            <l>VVe'l ſee hovv he'l handle every thing,</l>
+            <l>as ſoon as our match of Bovvls is done.</l>
+            <l>The Noble man led him through many a room,</l>
+            <l>and through many a Galleray gay,</l>
+            <l>What a deel doth the King with ſo many houſes</l>
+            <l>that he gets them not fill'd with Corn &amp; Hay?</l>
+            <l>At laſt they ſpied the King in a Garden,</l>
+            <l>yet from his game he did not ſtart,</l>
+            <l>The day was ſo hot, he caſt off his Doublet,</l>
+            <l>he had nothing from the waſt but his ſhirt.</l>
+            <l>Lo yonder's the King, ſaid the Noble-man,</l>
+            <l>behold follow, lo where he goes:</l>
+            <l>Believ't he's ſome unthrift, ſays the poor man,</l>
+            <l>that has loſt his money, and pawn'd his cloths.</l>
+            <l>But when he came before the King,</l>
+            <l>the Noble-man did his courteſie:</l>
+            <l>The poor man followed after him,</l>
+            <l>And gave a nod with's head, and a beck with's knee.</l>
+            <l>And if you be Sir King then ſaid the poor man,</l>
+            <l>as I can hardly think ye be:</l>
+            <l>Here is a gude fellow that brought me hither,</l>
+            <l>is liker to be the king than ye.</l>
+            <l>I am the king his Grace now ſaid,</l>
+            <l>fellow let me thy caſe underſtand:</l>
+            <l>If you be Sir king i'me a Tenant of yours,</l>
+            <l>that was born &amp; up brought in your own land</l>
+            <l>There dwells a Lawyer hard by me.</l>
+            <l>and a fault in my Leaſe he ſaith he hath found,</l>
+            <l>And all was for ſelling five poor Aſhes,</l>
+            <l>to build an houſe upon your own ground.</l>
+            <l>Haſt thou a Leaſe here, ſaid our king?</l>
+            <l>or canſt thou ſhe to me the Deed?</l>
+            <l>He gave it into the kings own hand,</l>
+            <l>and ſaid, Sir, here 'tis if that you can read.</l>
+            <l>Let's ſee thy Leaſe, then ſaid the king:</l>
+            <l>then from his Black Box he pull'd it out,</l>
+            <l>He gave it into the kings own hand,</l>
+            <l>with four or five knots t'yd faſt in a clout.</l>
+            <l>We'ſt never unloſe theſe knots, ſaid the king,</l>
+            <l>he gave it to one that behind him did ſtay.</l>
+            <l>It is a proud Horſe then ſaid the poor man,</l>
+            <l>will not carry's own Provinder along the high way</l>
+            <l>Pay me forty ſhillings as iſe pay you,</l>
+            <l>I will not think much to unlooſe a knot;</l>
+            <l>I would I were ſo occupied every day,</l>
+            <l>i'd unlooſe a ſcore on 'um for a groat.</l>
+            <l>VVhen the king had gotten theſe Letters read,</l>
+            <l>and found the truth wak very ſo,</l>
+            <l>I warrent thee, thou haſt not forfeit thy Leaſe,</l>
+            <l>if thou hadſt feld five Aſhes mo.</l>
+            <l>I, every one can warrant me,</l>
+            <l>but all your warrants are not worth a flee,</l>
+            <l>For he that troubles me and will not let me go,</l>
+            <l>neither cares for warrant of you nor me.</l>
+            <l>Thou'ſt have an <hi>Injunction,</hi> ſaid our kin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</l>
+            <l>from troubling of thee he will ceaſ</l>
+            <l>He'l either ſhew thee good cauſe why,</l>
+            <l>or elſe he'l let thee live in peace.</l>
+            <l>VVhat's that <hi>Injunction,</hi> ſaid the poor man?</l>
+            <l>good Sir to me I pray you ſay,</l>
+            <l>VVhy, it is a Letter i'le cauſe to be written,</l>
+            <l>but art thou ſo ſimple as thou ſhowſt to day?</l>
+            <l>VVhy if't be a Letter i'me never the better,</l>
+            <l>keep it to thy ſelf and trouble not me,</l>
+            <l>I could ha had a letter written cheaper at home,</l>
+            <l>and nere a come out of my own country.</l>
+            <l>Thouſt have an <hi>Atachment,</hi> ſaid our King,</l>
+            <l>charge all that thou ſeeſt take thy part,</l>
+            <l>Till he pay ther an hundred pound,</l>
+            <l>ſure thou never let him ſtart:</l>
+            <l>If any ſeem againſt thee to ſtand,</l>
+            <l>beſure thou come hither ſtraight way,</l>
+            <l>I marry, is that all iſe get for my labour,</l>
+            <l>then I may come trotting every day,</l>
+            <l>Thou art hard of belief, then ſaid our King,</l>
+            <l>to pleaſe him with Letters he was willing,</l>
+            <l>I ſee you have taken great pains in writing,</l>
+            <l>with all my heart iſe' give a Shilling</l>
+            <l>I'le <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave none of thy ſhilling ſaid our King,</l>
+            <l>man with thy money God give theee win,</l>
+            <l>He threw it into the Kings boſome,</l>
+            <l>the money lay cold next to his skin.</l>
+            <l>Bethrew thy heart, then ſaid our King,</l>
+            <l>thou art an Earl ſomething too bold:</l>
+            <l>Doſt thou not ſee I am hot with Bowling,</l>
+            <l>and the money next to my skin lies cold.</l>
+            <l>I never wiſt that before ſaid the poor man,</l>
+            <l>before ſike time as I came hither.</l>
+            <l>If the Lawers in our Country thought 'twas cold,</l>
+            <l>they would not heap up ſo much together,</l>
+            <l>The King called up his Treaſurer,</l>
+            <l>and bad him fetch him twenty Pound;</l>
+            <l>If ever thy Errand lye here away,</l>
+            <l>i'le bear thy Charges up and down.</l>
+            <l>When the poor man ſaw the Gold down tendred</l>
+            <l>for to receive it he was willing:</l>
+            <l>If I had thought the King had had ſo mickle gold,</l>
+            <l>beſhrev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de my heart i'de ha kept my ſhilling,</l>
+            <l>The poor man got home the next Sunday</l>
+            <l>The Lavver ſoon did him eſpy;</l>
+            <l>O Sir, you have been a ſtranger long,</l>
+            <l>I think from me you have kept you by.</l>
+            <l>It was for you indeed, ſaid the poor man,</l>
+            <l>the matter to the King, as I have tell:</l>
+            <l>I did as my neighbour put into my head,</l>
+            <l>and made a ſubmiſſion to him my ſell.</l>
+            <l>What a deel didſt thou with the K. <abbr>qd</abbr> the lawyer</l>
+            <l>could not neighbors and friends agree thee &amp; me,</l>
+            <l>The deel a neighbor or friend that I had,</l>
+            <l>that would ha been ſuch a days man as he:</l>
+            <l>He has gin me a Letter, but I know not what they cal't</l>
+            <l>but if the kings mords be true to me</l>
+            <l>When you have read and peruſed it over,</l>
+            <l>I hope you'l leave and let me be.</l>
+            <l>He has gin me another, but I know not what too</l>
+            <l>but I charge you all to hold him faſt,</l>
+            <l>Till he pay me an hundred Pound,</l>
+            <l>I will go tye him faſt ttill a Poſt.</l>
+            <l>Marry God forbid, the Lawyer ſaid,</l>
+            <l>then the <hi>Tachment</hi> was red before them there,</l>
+            <l>Thou muſt needs ſomething credit me,</l>
+            <l>till I go home and fetch ſome me<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</l>
+            <l>Credit, nay that's it the king forbad,</l>
+            <l>he bade it I got thee I ſhould thee ſtay,</l>
+            <l>The Lawyer paid him an hundred pound</l>
+            <l>in ready money e're he went away.</l>
+            <l>Would every Lawyer were ſerved thus,</l>
+            <l>from troubiing poor men they vvould ceaſe;</l>
+            <l>They'd either ſhevv him good cauſe vvhy,</l>
+            <l>or elſe they'd let him live in peace.</l>
+            <l>And thus I end my merry ſong,</l>
+            <l>which ſhevvs the plain mens ſimpleneſs,</l>
+            <l>And the kings' great mercy in Righting vvrongs</l>
+            <l>and the Lavvyers fraud and vvickedneſs.</l>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by and for Alex. <hi>Milbourn,</hi> at the Stationers-Arms in Green-Arbor Court, in the Little Old-Baily.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
